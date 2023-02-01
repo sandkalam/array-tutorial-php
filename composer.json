@@ -1,0 +1,17 @@
+{
+    "name": "sandkalam/lat",
+    "autoload": {
+        "psr-4": {
+            "Sandkalam\\Lat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Queart Tistic",
+            "email": "queart42@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.27"
+    }
+}
